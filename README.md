@@ -1,0 +1,2 @@
+# opggbot
+discord bot
