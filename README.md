@@ -12,4 +12,4 @@ Discord bot that gets user information from [OPGG](https://www.op.gg/)
 - 옵지 나가: log out
 
 ## Example
-![example](example_img.png)
+![example](example.png)
