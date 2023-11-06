@@ -16,7 +16,7 @@ webdriver_options.add_argument('headless')
 driver = webdriver.Chrome(executable_path='chromedriver', options=webdriver_options)
 
 bot = commands.Bot(command_prefix='옵지 ', connector=aiohttp.TCPConnector(ssl=False))
-Token = 'Nzg2ODI1MDI3MTg1NDEwMDY4.X9MB6A.QvoLoqG2D4JJqKdX52paUlDZsMQ'
+Token = "discord_bot_token"
 
 @bot.event
 async def on_ready():
